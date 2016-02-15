@@ -3,5 +3,6 @@ public class AddUser {
        System.out.println("AddUser");
        System.out.println("Done Refactoring");
        System.out.println("BugFix");
+       System.out.println("HotFix");
     }
 }
